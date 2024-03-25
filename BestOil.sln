@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestOil", "BestOil\BestOil.csproj", "{D44AE0D1-472B-46AD-B104-0237F91F758D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D44AE0D1-472B-46AD-B104-0237F91F758D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44AE0D1-472B-46AD-B104-0237F91F758D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44AE0D1-472B-46AD-B104-0237F91F758D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44AE0D1-472B-46AD-B104-0237F91F758D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1347B59-836D-473F-ADF1-FBB929FBA537}
+	EndGlobalSection
+EndGlobal
